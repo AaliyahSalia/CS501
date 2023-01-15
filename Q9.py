@@ -18,3 +18,8 @@ else:
        print("The median is: ", b)
    else:
        print("The median is: ", c)
+
+
+https://docs.google.com/document/d/1DuFZt3EDLtECdyYCC3vqhaq4IKa39YiIr1OaToX1Yqg/edit
+ 
+ 
